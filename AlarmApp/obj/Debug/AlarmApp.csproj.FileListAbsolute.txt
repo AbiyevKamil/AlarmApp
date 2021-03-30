@@ -1,0 +1,15 @@
+C:\Users\LEGION\source\repos\AlarmApp\bin\Debug\AlarmApp.exe.config
+C:\Users\LEGION\source\repos\AlarmApp\bin\Debug\AlarmApp.exe
+C:\Users\LEGION\source\repos\AlarmApp\bin\Debug\AlarmApp.pdb
+C:\Users\LEGION\source\repos\AlarmApp\obj\Debug\AlarmApp.csprojAssemblyReference.cache
+C:\Users\LEGION\source\repos\AlarmApp\obj\Debug\AlarmApp.Properties.Resources.resources
+C:\Users\LEGION\source\repos\AlarmApp\obj\Debug\AlarmApp.csproj.GenerateResource.cache
+C:\Users\LEGION\source\repos\AlarmApp\obj\Debug\AlarmApp.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\AlarmApp\obj\Debug\AlarmApp.exe
+C:\Users\LEGION\source\repos\AlarmApp\obj\Debug\AlarmApp.pdb
+C:\Users\LEGION\source\repos\AlarmApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\LEGION\source\repos\AlarmApp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\LEGION\source\repos\AlarmApp\obj\Debug\Interop.WMPLib.dll
+C:\Users\LEGION\source\repos\AlarmApp\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\LEGION\source\repos\AlarmApp\obj\Debug\AlarmApp.csproj.ResolveComReference.cache
+C:\Users\LEGION\source\repos\AlarmApp\obj\Debug\AlarmApp.AlarmApp.resources
